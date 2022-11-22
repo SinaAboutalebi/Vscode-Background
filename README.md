@@ -18,6 +18,8 @@
     <a href="https://github.com/Zer0Power/Vscode-Background/issues">Report Bug</a>
     ·
     <a href="https://github.com/Zer0Power/Vscode-Background/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/Zer0Power/Vscode-Background/tree/main/images/Backgrounds">Wallpapers</a>
   </p>
 </div>
 
